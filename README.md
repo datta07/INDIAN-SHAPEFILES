@@ -14,4 +14,4 @@ This repo includes all possible territorial clusters.
 ## MORE TO KNOW
      - Some of the data was from 2019. so,recent changes may not appear in some files.
      - Trying to include VILLAGE BOUNDARIES in future commits.
-     - This repo completely consists of Geojson format. Please convert to other formats from geojson if needed.
+     - This repo completely consists of Geojson format. Please convert to other formats from geojson if needed. (use https://mapshaper.org/ to convert)
