@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","crs":{"type":"name","properties":{"name":"EPSG:4326"}},"features":[{"type":"Feature","id":1902,"geometry":{"type":"Point","coordinates":[76.786712386008332,30.73133772550516]},"properties":{"OBJECTID":1902,"stname":"CHANDIGARH","dtname":"Chandigarh","STCODE11":"04","DTCODE11":"055","SDTCODE11":"00277","NAME11":"Chandigarh","LOC_NAME":"Chandigarh"}}]}
